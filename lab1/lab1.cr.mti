@@ -1,0 +1,29 @@
+F:/dsd2016/lab1/test_bench.v {1 {vlog -work work {F:\dsd2016\lab1\test_bench.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_bench
+
+Top level modules:
+	test_bench
+
+} {} {}} F:/dsd2016/lab1/alu_test.v {1 {vlog -work work F:/dsd2016/lab1/alu_test.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_test
+
+Top level modules:
+	alu_test
+
+} {} {}} F:/dsd2016/lab1/alu.v {1 {vlog -work work {F:\dsd2016\lab1\alu.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} F:/dsd2016/lab1/both_together.v {1 {vlog -work work {F:\dsd2016\lab1\both_together.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module together
+
+Top level modules:
+	together
+
+} {} {}}
